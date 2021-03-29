@@ -1,4 +1,4 @@
-import {GetStaticProps, GetStaticPropsResult} from 'next'
+import {GetStaticProps} from 'next'
 import {getCoreValue} from '../helpers/values'
 
 interface HomeProps {
