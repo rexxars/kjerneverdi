@@ -52,9 +52,9 @@ const coreValues = [
   'Vanvittighetsorientert',
   'Utilstrekkelighetsbasert',
   'Mellomlederstyrt',
-  '',
-  '',
-  '',
+  'Innsmigrende',
+  'Utmarksdigitalisert',
+  'Mellomlederorientert',
 ]
 
 function getCoreValue() {
